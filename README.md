@@ -1,2 +1,2 @@
 # snowflakes
-Simple snowflake generator using cellular automaton.
+Simple snowflake generator.
